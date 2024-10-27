@@ -16,19 +16,31 @@ I'm an `SDE-2 ML at Amazon US` with a passion for machine learning that spans ov
 
 ## 🗂️ Notebooks Overview
 
-Here’s a quick look at some of the exciting notebooks available in this repository:
+### Machine Learning
 
-| Notebook Name             | Published On | Link                                   |
-|---------------------------|--------------|----------------------------------------|
-| LLM Introduction          | 2023-10-01   | [View Notebook](https://colab.research.google.com/...) |
-| Text Generation with GPT  | 2023-10-05   | [View Notebook](https://colab.research.google.com/...) |
-| Fine-tuning BERT          | 2023-10-10   | [View Notebook](https://colab.research.google.com/...) |
-| Image Classification      | 2023-10-15   | [View Notebook](https://colab.research.google.com/...) |
-| Sentiment Analysis        | 2023-10-20   | [View Notebook](https://colab.research.google.com/...) |
+| Notebook Name             | Release Date | Link                                   | Difficulty Rating |
+|---------------------------|--------------|----------------------------------------|-------------------|
+| Classification & Regressions         | TBD  | TBD | ⭐️⭐️              |
+| Regularization in Machine Learning         | TBD   | TBD | ⭐️⭐️              |
+| Causality in Machine Learning         | TBD   | TBD | ⭐️⭐️⭐️⭐️          |
+
+### Deep Learning
+
+| Notebook Name             | Release Date | Link                                   | Difficulty Rating |
+|---------------------------|--------------|----------------------------------------|-------------------|
+| Neural Network classification         | TBD   | TBD | ⭐️⭐️              |
+| Compression of Deep Neural Networks        | TBD   | TBD | ⭐️⭐️⭐️⭐️          |
+| Image compression        | TBD   | TBD | ⭐️⭐️⭐️          |
+
+### Large Language Model (LLM)
+
+| Notebook Name             | Release Date | Link                                   | Difficulty Rating |
+|---------------------------|--------------|----------------------------------------|-------------------|
+| Prompt Engineering with Llama-3      | TBD   | TBD | ⭐️⭐️              |
 
 ## 📢 Cite Me
 
-- If you're re-using these template and posting on LinkedIn, please tag me: [Aman Singh](https://www.linkedin.com/in/singh96aman/)
+- If you're re-using these template and posting on LinkedIn, please tag me: [Aman Singh Thakur](https://www.linkedin.com/in/singh96aman/)
 - If you're re-using these templates and posting elsewhere, please tag my repository: [Cite this repo](#)
-- For feedback, [Email Me](mailto:singh96aman@gmail.com)
+- For feedback and contributions, [Email Me](mailto:singh96aman@gmail.com)
 
